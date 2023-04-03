@@ -1,1 +1,1 @@
-This repo contains the various tasks under the Introduction To C project
+A repo containing various ALX tasks, exploring low level programming
